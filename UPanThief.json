@@ -1,0 +1,6 @@
+{
+    "OPTagFileName" : "OPTag.txt",
+    "noCopyTagFileName" : "noCopyTag.txt",
+    "savePath" : "{USERPROFILE}/AppData/Local/UPanThief/file",
+    "OPCopyPath" : "UPanThief"
+}
