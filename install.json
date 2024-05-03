@@ -2,6 +2,6 @@
     "mainPath" : "{USERPROFILE}/AppData/Local/UPanThief",
     "dataPath" : "{USERPROFILE}/AppData/Local/UPanThief/file",
     "targetUsers" : "{USERPROFILE}",
-    "mainName" : "UPanThief_alpha1.3.py",
+    "mainName" : "UPanThief_alpha1.5.py",
     "dependList" : ["logs.py", "UPanThief.json"]
 }
